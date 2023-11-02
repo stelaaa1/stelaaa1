@@ -2,12 +2,12 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://stelaaa1.github.io) 
 <h1 align="center"> Hi,👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" > I'm Stela </h1>
 <!----Tag line------>
-<div align=center>
+<!-- <div align=center>
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=SDE-1+at+MindSprint(Olam);Full+stack+Developer;Java+Programming;Open-Source+Enthusiast" alt="Headline" />
 </div>
 <!-- <p align="center"><a href="https://meAltf.github.io">Portfolio↗</a></p> -->
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">         
-![GitHub followers](https://img.shields.io/github/followers/stelaaa1?style=for-the-badge&logo=github) ![GitHub User's stars](https://img.shields.io/github/stars/stelaaa1?style=for-the-badge&logo=github) <img src="https://komarev.com/ghpvc/?username=stelaaa1&style=for-the-badge&logo=github" alt="" />
+![GitHub followers](https://img.shields.io/github/followers/stelaaa1?style=for-the-badge&logo=github) ![GitHub User's stars](https://img.shields.io/github/stars/stelaaa1?style=for-the-badge&logo=github) <img src="https://komarev.com/ghpvc/?username=stelaaa1&style=for-the-badge&logo=github" alt="" /> -->
 
  
 <!-----About Me ---------> 
