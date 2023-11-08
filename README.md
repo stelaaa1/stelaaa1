@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://stelaaa1.github.io) 
 
-<h1 align="center"> Hi,👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" > I'm Stela</h1>
+<h1 align="center"> Hi,👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" > I'm Stela Halder</h1>
 
 <!----Tag line------>
 
@@ -11,7 +11,7 @@
 
 </div> -->
 
- <p align="center"><a href="https://stelaaa1.github.io">Portfolio↗</a></p>
+ <p align="center"><a href="https://www.linkedin.com/in/stela-halder-0a59311b2/">I'm working as a FullStack Developer at Mindsprint[Olam]↗</a></p>
 
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">         
 
