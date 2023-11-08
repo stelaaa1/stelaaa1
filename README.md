@@ -6,7 +6,8 @@
 
 <div align=center>
 
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=SDE-1+at+MindSprint(Olam);Full+stack+Developer;Java+Programming;OpenSource+Enthusiast" alt="Headline" />
+       ![Alt Text](https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=SDE-1+at+MindSprint(Olam);Full+stack+Developer;Java+Programming;OpenSource+Enthusiast)
+
 
 </div>
 
