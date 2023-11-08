@@ -4,14 +4,14 @@
 
 <!----Tag line------>
 
-<div align=center>
+<!--<div align=center>
 
        ![Alt Text](https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=SDE-1+at+MindSprint(Olam);Full+stack+Developer;Java+Programming;OpenSource+Enthusiast)
 
 
-</div>
+</div> -->
 
-<!-- <p align="center"><a href="https://stelaaa1.github.io">Portfolio↗</a></p> -->
+ <p align="center"><a href="https://stelaaa1.github.io">Portfolio↗</a></p>
 
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">         
 
